@@ -11,10 +11,13 @@ import android.widget.TextView;
 
 public class AdapterDiscucao extends ArrayAdapter<DiscucaoForum>{ 
 	
+	private String teste;
+	
 	private int resource;
 	public AdapterDiscucao(Context context) {
 		super(context, R.layout.adapter_discucao);
 		this.resource = R.layout.adapter_discucao;
+		
 	}
 	
 	//para cada item este método será chamado
