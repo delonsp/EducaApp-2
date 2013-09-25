@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="title_activity_login">EducaApp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">senha</string>
+    <string name="action_sign_in_register">entrar</string>
+    <string name="action_sign_in_short">Login</string>
+    <string name="action_forgot_password">Recuperar senha perdida</string>
+    <string name="login_progress_signing_in">Entrando</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_invalid_password">Senha curta, mínimo 8 dígitos</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="action_register">registrar</string>
+
+</resources>

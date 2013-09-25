@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_help"
+          android:icon="@drawable/action_help"
+          android:title="@string/action_help"
+          android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/action_search"
+          android:icon="@drawable/action_search"
+          android:title="@string/action_search"
+          android:showAsAction="ifRoom|withText"  />
+     <item android:id="@+id/action_exit"
+          android:icon="@drawable/navigation_cancel"
+          android:title="@string/action_exit"
+          android:showAsAction="ifRoom|withText"  />
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modulo1">DEL</string>
+    <string name="modulo2">Autismo</string>
+    <string name="modulo3">Dislexia</string>
+    <string name="modulo4">TDAH</string>
+    
+</resources>

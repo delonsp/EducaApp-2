@@ -1,0 +1,333 @@
+
+	
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuModulosActivity"
+    android:background="@drawable/children3_port"
+    >
+
+	    <TableLayout
+	        android:id="@+id/btModulo4"
+	        android:layout_width="@dimen/modulos_table_width"
+	        android:layout_height="wrap_content"
+	       
+	        android:layout_alignTop="@+id/btModulo3"
+	        android:layout_alignLeft="@+id/btModulo2"
+	        android:background="@color/Snow"
+	        android:onClick="onClick"
+	        android:orientation="horizontal" >
+
+	        <TableRow
+	            android:id="@+id/tableRow16"
+	            android:layout_gravity="top" 
+	            android:background="@drawable/tdah">
+
+	            
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow17"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                android:layout_margin="3dp"
+	                android:background="@color/AnotherGray"
+	                android:text="@string/modulo_tdah_text"
+	                android:textColor="@color/White"
+	                android:textSize="25sp" />
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow18"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:background="@color/Ivory3" >
+
+	            <ImageView
+	                android:id="@+id/thumbnail"
+	                style="@style/thumbnail"
+	                android:contentDescription="@string/thumbnail"
+	                android:src="@drawable/thumbnail" />
+
+	            <TextView
+	                 android:text="@string/titulo_especialista"
+	                 style="@style/titulo_especialista"/>
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow19"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                android:layout_width="wrap_content"
+	                android:layout_height="match_parent"
+	                android:lines="4"
+	                android:maxLines="4"
+	                android:text="@string/texto_descritivo" />
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow20"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/videos_text" />
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/artigos_text" />
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/testes_text" />
+	        </TableRow>
+	    </TableLayout>
+
+	    <TableLayout
+	        android:id="@+id/btModulo3"
+	        android:layout_width="@dimen/modulos_table_width"
+	        android:layout_height="wrap_content"
+	        android:layout_alignLeft="@+id/btModulo1"
+	        android:layout_below="@+id/btModulo1"
+	       
+	        android:layout_marginTop="154dp"
+	        android:background="@color/Snow"
+	        android:onClick="onClick"
+	        android:orientation="horizontal" >
+
+
+	        <TableRow
+	            android:id="@+id/tableRow11"
+	            android:layout_gravity="top" 
+	            android:background="@drawable/dislexia">
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow12"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                android:layout_margin="3dp"
+	                android:background="@color/AnotherGray"
+	                android:text="@string/modulo_dislexia_text"
+	                android:textColor="@color/White"
+	                android:textSize="25sp" />
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow13"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:background="@color/Ivory3" >
+
+	            <ImageView
+	                
+	                style="@style/thumbnail"
+	                android:contentDescription="@string/thumbnail"
+	                android:src="@drawable/thumbnail" />
+
+	            <TextView
+	                 android:text="@string/titulo_especialista"
+	                 style="@style/titulo_especialista"/>
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow14"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                android:layout_width="wrap_content"
+	                android:layout_height="match_parent"
+	                android:lines="4"
+	                android:maxLines="4"
+	                android:text="@string/texto_descritivo" />
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow15"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/videos_text" />
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/artigos_text" />
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/testes_text" />
+	        </TableRow>
+	    </TableLayout>
+
+	    <TableLayout
+	        android:id="@+id/btModulo2"
+	        android:layout_width="@dimen/modulos_table_width"
+	        android:layout_height="wrap_content"
+	        android:layout_above="@+id/btModulo3"
+	        android:layout_alignParentRight="true"
+	        android:layout_marginRight="113dp"
+	        android:background="@color/Snow"
+	        android:onClick="onClick"
+	        android:orientation="horizontal" >
+
+	        <TableRow
+	            android:id="@+id/tableRow6"
+	            android:layout_gravity="top" 
+	            android:background="@drawable/autismo">
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow7"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                android:layout_margin="3dp"
+	                android:background="@color/AnotherGray"
+	                android:text="@string/modulo_autismo_text"
+	                android:textColor="@color/White"
+	                android:textSize="25sp" />
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow8"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:background="@color/Ivory3" >
+
+	            <ImageView
+	               
+	                style="@style/thumbnail"
+	                android:contentDescription="@string/thumbnail"
+	                android:src="@drawable/thumbnail" />
+
+	            <TextView
+	                 android:text="@string/titulo_especialista"
+	                 style="@style/titulo_especialista"/>
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow9"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                android:layout_width="wrap_content"
+	                android:layout_height="match_parent"
+	                android:lines="4"
+	                android:maxLines="4"
+	                android:text="@string/texto_descritivo" />
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow10"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/videos_text" />
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/artigos_text" />
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/testes_text" />
+	        </TableRow>
+	    </TableLayout>
+
+	    <TableLayout
+	        android:id="@+id/btModulo1"
+	        android:layout_width="@dimen/modulos_table_width"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentTop="true"
+	        android:layout_marginLeft="60dp"
+	        android:layout_marginTop="120dp"
+	        android:background="@color/Snow"
+	        android:onClick="onClick"
+	        android:orientation="horizontal" >
+
+	        <TableRow
+	            android:id="@+id/tableRow1"
+	            android:layout_gravity="top" 
+	            android:background="@drawable/del">
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow2"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                android:layout_margin="3dp"
+	                android:background="@color/AnotherGray"
+	                android:text="@string/modulo_del_text"
+	                android:textColor="@color/White"
+	                android:textSize="25sp" />
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow3"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:background="@color/Ivory3" >
+
+	            <ImageView
+	                
+	                style="@style/thumbnail"
+	                android:contentDescription="@string/thumbnail"
+	                android:src="@drawable/thumbnail" />
+
+	            <TextView
+	                 android:text="@string/titulo_especialista"
+	                 style="@style/titulo_especialista"/>
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow4"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                android:layout_width="wrap_content"
+	                android:layout_height="match_parent"
+	                android:lines="4"
+	                android:maxLines="4"
+	                android:text="@string/texto_descritivo" />
+	        </TableRow>
+
+	        <TableRow
+	            android:id="@+id/tableRow5"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content" >
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/videos_text" />
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/artigos_text" />
+
+	            <TextView
+	                style="@style/modulosInfoText"
+	                android:text="@string/testes_text" />
+	        </TableRow>
+	    </TableLayout>
+
+</RelativeLayout>
+

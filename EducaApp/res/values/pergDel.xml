@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayPerguntasDel">
+        <item >#Marque abaixo os sintomas apresentados pela criança:</item>
+        <item >O aparecimento da fala, que geralmente ocorre por volta dos 12 meses, encontra-se atrasado ou lento</item>
+        <item >Ocorre ausência de fala</item>
+        <item >Os pais e professores perceberam que a criança é inteligente</item>
+        <item >A brincadeira encontra-se defasada para a idade</item>
+        <item >A compreensão, na maioria das vezes, encontra-se adequada</item>
+        <item >Apresenta um vocabulário pobre e sabe nomear poucas palavras quando comparado às crianças da sua idade</item>
+        <item >Dificuldade para aprender novas palavras, necessitando de mais tempo para aprendê-las</item>
+        <item >Presença de muitas trocas de sons, tornando a fala ininteligível</item>
+        <item >Os familiares e conhecidos não conseguem entender o que a criança fala</item>
+        <item >Dificuldade em combinar palavras para formar frases</item>
+        <item >Dificuldade para formar frases que são caracterizadas por omissão de palavras e dificuldades com verbos e preposições</item>
+        <item >Elabora apenas frases muito simples com poucas palavras</item>
+        <item >Dificuldades em relatar fatos ou recontar uma história real (como o dia na escola ou um passeio) ou histórias inventadas (contos de fadas)</item>
+        <item >Inabilidade em usar a linguagem para comunicação (iniciar conversas, responder ao amigo ou adulto de forma adequada e manter uma conversa);</item>
+        <item >Dificuldade para compreender piadas, metáforas e palavras ou expressões de duplo sentido</item>
+        <item >Apresenta sérias dificuldades para aprender a se alfabetizar</item>
+        <item >As dificuldades na leitura e escrita mantém-se após o período da alfabetização</item>
+        <item >Apresenta problemas de comportamento ou isolamento social devido às dificuldades de linguagem e acadêmicas</item>
+
+ 
+    </string-array>
+    
+</resources>

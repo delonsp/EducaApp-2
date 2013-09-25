@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="artigoDel">/EducaApp/artigos/del.pdf</string>
+    <string name="artigoTdah">/EducaApp/artigos/tdah.pdf</string>
+    <string name="artigoDislexia">/EducaApp/artigos/dislexia.pdf</string>
+    <string name="artigoAutismo">/EducaApp/artigos/autismo.pdf</string>
+    
+</resources>

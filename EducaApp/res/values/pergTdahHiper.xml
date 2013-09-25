@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayPerguntas">
+        <item >#Desatenção</item>
+        <item >Frequentemente deixa de prestar atenção a detalhes ou comete erros por descuido em atividades escolares, de trabalho ou outras.</item>
+        <item >Com frequência tem dificuldades para manter a atenção em tarefas ou atividades de brincadeiras (lúdicas).</item>
+        <item >Com frequência parece não escutar quando lhe dirigem a palavra.</item>
+        <item >Com frequência não segue instruções e não termina seus deveres escolares, tarefas domésticas ou deveres profissionais (não por apresentar comportamento de desafio ou por não entender as instruções).</item>
+        <item >Com frequência tem dificuldade para organizar tarefas e atividades.</item>
+        <item >Com frequência evita, antipatiza ou reluta a envolver-se em tarefas que exijam esforço mental constante (como tarefas escolares ou deveres de casa).</item>
+        <item >Com frequência perde coisas necessárias para tarefas ou atividades (por ex., brinquedos, tarefas escolares, lápis, livros ou outros materiais).</item>
+        <item >É facilmente distraído por estímulos alheios à tarefa.</item>
+        <item >Com frequência apresenta esquecimento em atividades diárias.</item>
+        <item >#Hiperatividade ou impulsividade</item>
+        <item >Frequentemente agita as mãos ou os pés ou se remexe na cadeira.</item>
+        <item >Frequentemente abandona sua cadeira em sala de aula ou outras situações nas quais se espera que permaneça sentado.</item>
+        <item >Frequentemente corre ou escala em demasia, em situações nas quais isto é inapropriado.</item>
+        <item >Com frequência tem dificuldade para brincar ou se envolver silenciosamente em atividades de lazer</item>
+        <item >Está frequentemente &quot;a mil&quot; ou muitas vezes age como se estivesse &quot;a todo vapor&quot;.</item>
+        <item >Freqüentemente fala em demasia.</item>
+        <item >Frequentemente dá respostas precipitadas antes de as perguntas terem sido completadas.</item>
+        <item >Com frequência tem dificuldade para aguardar sua vez.</item>
+        <item >Frequentemente interrompe ou se mete em assuntos de outros (por ex., intromete-se em conversas ou brincadeiras).</item>
+    </string-array>
+    
+</resources>

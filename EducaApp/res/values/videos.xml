@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="videoAutismo">sdcard/EducaApp/videos/autismo.mp4</string>
+    <string name="videoDel">sdcard/EducaApp/videos/del.mp4</string>
+    <string name="videoDislexia">sdcard/EducaApp/videos/dislexia.mp4</string>
+    <string name="videoTdah">sdcard/EducaApp/videos/tdah.mp4</string>
+    
+</resources>

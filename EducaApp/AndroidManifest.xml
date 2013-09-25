@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.educaapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.educaapp.LoginActivity"
+            android:label="@string/title_activity_login"
+            android:uiOptions="splitActionBarWhenNarrow"
+            android:windowSoftInputMode="adjustPan|stateHidden" >
+            <meta-data
+                android:name="android.support.UI_OPTIONS"
+                android:value="splitActionBarWhenNarrow" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.educaapp.MenuInicialActivity"
+            android:label="@string/title_activity_menu_inicial" >
+        </activity>
+        <activity
+            android:name="com.educaapp.MenuModulosActivity"
+            android:label="@string/title_activity_modulos" >
+        </activity>
+        <activity
+            android:name="com.educaapp.ModuloActivity"
+            android:label="@string/title_activity_modulo" >
+        </activity>
+        <activity
+            android:name="com.educaapp.VideoActivity"
+            android:label="@string/title_activity_video" >
+        </activity>
+        <activity
+            android:name="com.educaapp.ArtigoActivity"
+            android:label="@string/title_activity_artigo" >
+        </activity>
+        <activity
+            android:name="com.educaapp.ForumListActivity"
+            android:label="@string/title_activity_forum" >
+        </activity>
+        <activity
+            android:name="com.educaapp.AvaliacaoActivity"
+            android:label="@string/title_activity_avaliacao" >
+        </activity>
+        <activity
+            android:name="com.educaapp.QuestTdahHiperActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/title_activity_quest_tdah_hiper" >
+        </activity>
+        <activity
+            android:name="com.educaapp.QuestAutismoActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/title_activity_quest_autismo" >
+        </activity>
+        <activity
+            android:name="com.educaapp.QuestDislexiaActivity"
+            android:configChanges="orientation|screenSize|keyboardHidden"
+            android:label="@string/title_activity_quest_dislexia" >
+        </activity>
+        <activity
+            android:name="com.educaapp.QuestDelActivity"
+            android:label="@string/title_activity_quest_del" >
+        </activity>
+        <activity
+            android:name="com.educaapp.MenuSuspeitarActivity"
+            android:label="@string/title_activity_menu_suspeitar" >
+        </activity>
+        <activity android:name="com.radaee.reader.PDFReaderAct" >
+        </activity>
+        <activity
+            android:name="com.educaapp.TopicosForumListActivity"
+            android:label="@string/title_activity_tipicos_forum_list" >
+        </activity>
+        <activity
+            android:name="com.educaapp.DiscucaoListActivity"
+            android:label="@string/title_activity_discucao_list" >
+        </activity>
+    </application>
+
+</manifest>

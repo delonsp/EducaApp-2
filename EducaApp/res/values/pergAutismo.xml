@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayPerguntasAutismo">
+        <item >#Prejuízo qualitativo na interação social, manifestado por pelo menos dois dos seguintes aspectos:</item>
+        <item >Prejuízo acentuado no uso de múltiplos comportamentos não-verbais, tais como contato visual direto, expressão facial, posturas corporais e gestos para regular a interação social</item>
+        <item >Fracasso em desenvolver relacionamentos com seus pares apropriados ao nível de desenvolvimento</item>
+        <item >Falta de tentativa espontânea de compartilhar prazer, interesses ou realizações com outras pessoas (por ex., não mostrar, trazer ou apontar objetos de interesse)</item>
+        <item >Falta de reciprocidade social ou emocional</item>
+        <item >#Prejuízos qualitativos na comunicação, manifestados por pelo menos um dos seguintes aspectos:</item>
+        <item >Atraso ou ausência total de desenvolvimento da linguagem falada (não acompanhado por uma tentativa de compensar através de modos alternativos de comunicação, tais como gestos ou mímica)</item>
+        <item >Em indivíduos com fala adequada, acentuado prejuízo na capacidade de iniciar ou manter uma conversação</item>
+        <item >Uso estereotipado e repetitivo da linguagem ou linguagem idiossincrática</item>
+        <item >Falta de jogos ou brincadeiras de imitação social variados e espontâneos apropriados ao nível de desenvolvimento</item>
+        <item >#Padrões restritos e repetitivos de comportamento, interesses e atividades, manifestados por pelo menos um dos seguintes aspectos:</item>
+        <item >Preocupação insistente com um ou mais padrões estereotipados e restritos de interesse, anormais em intensidade ou foco</item>
+        <item >Adesão aparentemente inflexível a rotinas ou rituais específicos e não-funcionais</item>
+        <item >Maneirismos motores estereotipados e repetitivos (por ex., agitar ou torcer mãos ou dedos, ou movimentos complexos de todo o corpo)</item>
+        <item >Preocupação persistente com partes de objetos </item>
+ 
+    </string-array>
+    
+</resources>

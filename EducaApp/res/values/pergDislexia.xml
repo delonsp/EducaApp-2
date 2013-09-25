@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrayPerguntasDislexia">
+        <item >#Marque abaixo os sintomas apresentados pela criança:</item>
+        <item >Dificuldades ocorrem no início da alfabetização</item>
+        <item >Baixo rendimento escolar</item>
+        <item >Dificuldade em estabelecer a relação letra e som</item>
+        <item >Dificuldade em desenvolver habilidades de consciência fonológica como: dividir a sentença ouvida em palavras; dividir a palavra em sílabas; soletrar; identificar auditivamente palavras que apresentam a mesma sílaba ou som inicial ou palavras que rimam</item>
+        <item >Leitura com erros de reconhecimento das palavras</item>
+        <item >Leitura não fluente de textos e com alteração de ritmo e entonação (por exemplo, leitura de sílaba por sílaba)</item>
+        <item >Dificuldade de compreensão de textos</item>
+        <item >Compreende quando leem para eles</item>
+        <item >Escrita com erros de ortografia</item>
+        <item >Escrita com trocas, migração e omissão de letras, junção e separação de palavras</item>
+        <item >Dificuldade para copiar de livros ou lousa</item>
+        <item >Tarefas em sala de aula incompletas</item>
+        <item >Dificuldade para redigir, produzir textos ou respostas por escrito</item>
+        <item >Precisa de um tempo maior para elaborar as respostas</item>
+        <item >Apresenta dificuldade em orientação espacial, traçado de letra irregular (letra ilegível, em definição de tamanho, preferência por letra de forma ou bastão em relação à cursiva), sem domínio do espaço na página</item>
+        <item >Apresenta dificuldades relacionadas à matemática apesar do bom raciocínio lógico</item>
+        <item >Comete trocas e/ou inversões de números, sinais, operações</item>
+        <item >Apresenta dificuldades para memorizar tabuadas</item>
+        <item >Os  textos apresentam problemas no desenvolvimento do tema da história e em manter a coerência ou lógica</item>
+ 
+    </string-array>
+    
+</resources>
